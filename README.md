@@ -20,4 +20,4 @@ If you're a startup or tech for good company that shares these values, I would l
 
 ## 📫 Get in touch
 
-You can contact me via [Email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm looking forward to hearing from you!
+You can contact me via [Email](mailto:tim.petersen1@outlook.de) or [LinkedIn](https://www.linkedin.com/in/tim-petersen-6022121a3/). I'm looking forward to hearing from you!

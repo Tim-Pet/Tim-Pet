@@ -1,21 +1,23 @@
 ![](https://visitcount.itsvg.in/api?id=Tim-Pet&icon=0&color=0)
 
-# 👋 Hey,  <br />
-Welcome to my GitHub page. Please, make yourself comfortable and take a look around! 😎 <br />
-I'm a web developer from Hamburg, Germany and this might help to get to know me and my way of working just a little bit better.
+# 👋 Hey there, I'm Tim!
+
+I'm a freelance 🌐 web developer who values harmony & transparency, conceptualisation first, and sharing is caring. My goal is to work with startups and tech for good companies who share these values and want to make a positive impact on the world. 
 
 ## 💻 How I work
 
-> “Spread love everywhere you go. Let no one ever come to you without leaving happier” - Mother Theresa
+My work is guided by the following principles:
 
-There are two things that are most important to me:
+1. 🌸 **Harmony & transparency**: I believe that working together in an empowering and constructive way is essential for success. Let's build each other up, grow together, and share our knowledge to make the world a better place.
 
-1. 🌸 **Harmony & transparency** <br /> I believe in working together in an empowering and constructive way, rather than blocking each other's growth. Let's empower each other, grow together, and share our knowledge to make this world a better place!
+2. 🏗️ **Conceptualisation first**: As a developer, I know that tackling new challenges requires proper conceptualisation. That's why I focus on creating a solid foundation before diving into implementation.
 
-2. 🏗️ **Proper conceptualisation & organisation** <br /> As a developer, I know how important it is to tackle new challenges effectively. That's why I focus on proper feature conceptualisation to avoid clashes between expectations and implementation. Happy people, happy me! ☀️
+3. 💡 **Sharing is caring**: I'm always eager to share my knowledge and learn from others. Let's collaborate, share ideas, and create something amazing together.
 
-## Projects
-***Coming soon...***
+## 🤝 Let's work together!
 
-## About me
-***Coming soon...***
+If you're a startup or tech for good company that shares these values, I would love to hear from you! Let's work together to create something amazing and make a positive impact on the world.
+
+## 📫 Get in touch
+
+You can contact me via [Email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm looking forward to hearing from you!

@@ -27,7 +27,7 @@ I believe that the tech world is evolving too fast and learning is too much of a
 We have 2 key issues:
 1. As a developer you will face new challenges quite often, on a daily basis some might say. And most importantly - they are right about it. Therefore, at some point you've got to ask yourself the question : "How do I tackle the mountain of a problem in front of me?"
 <br /> <br />
-2. During the past years I spent in startups, I often heard the phrases "This needs to be done asap", "quantity > quality" or most famously "time is money". This refers often to a short term termed approach where a specific result is expected to be shipped as soon as possible, yesterday if possible. 
+2. During the past years I spent in startups, I often heard the phrases "This needs to be done asap", "quantity > quality" or most famously "time is money". This refers often to a short termed approach where a specific result is expected to be shipped as soon as possible, yesterday if possible. 
 
 
 <br />

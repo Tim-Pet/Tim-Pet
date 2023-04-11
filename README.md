@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Tim!
 
-I'm a freelance 🌐 web developer who values harmony & transparency, conceptualisation, and sharing of knowledge. My goal is to work with startups and tech for good companies who share these values and want to make a positive impact on the world. 
+I'm a freelance 🌐 web developer who values harmony & transparency, conceptualisation and sharing of knowledge. My goal is to work with startups and tech for good companies who share these values and want to make a positive impact on the world. 
 
 ## 💻 How I work
 

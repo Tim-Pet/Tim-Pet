@@ -29,8 +29,8 @@ Welcome to my canvas on GitHub where I build and share my software artistry!
 
 ================================================
 
-
-🌎 > "In a world where you can be anything, be kind" - Unknown
+🌎 
+> "In a world where you can be anything, be kind" - Unknown
 
 
 

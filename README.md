@@ -2,22 +2,35 @@
 
 # 👋 Hey there, I'm Tim!
 
-I'm a freelance 🌐 web developer who values harmony & transparency, conceptualisation and sharing of knowledge. My goal is to work with startups and tech for good companies who share these values and want to make a positive impact on the world. 
+## 👨‍💻 Coding is not just about 'code', it's an art 👨‍🎨
 
-## 💻 How I work
+Welcome to my canvas on GitHub where I build and share my software artistry!
 
-My work is guided by the following principles:
+### 🌱 I'm a Software Developer, Web Enthusiast and Lifelong Learner
 
-1. 🌸 **Harmony & transparency**: I believe that working together in an empowering and constructive way is essential for success. Let's build each other up, grow together, and share our knowledge to make the world a better place.
+* Currently, I am engrossed in sharpening my Web Development skills, one line of code at a time.
+* Diving deep into the nuances of Typescript, React, Node.js, and more, learning is my perpetual endeavor.
+* Do you have an intriguing question or an exciting project related to these fields? Get in touch via LinkedIn.
 
-2. 🏗️ **Conceptualisation first**: As a developer, I know that tackling new challenges requires proper conceptualisation. That's why I focus on creating a solid foundation before diving into implementation.
+### 🛠️ Languages and Tools:
 
-3. 💡 **Sharing is caring**: I'm always eager to share my knowledge and learn from others. Let's collaborate, share ideas, and create something amazing together.
+[//]: # (Add your languages and tools between the ===)
 
-## 🤝 Let's work together!
+================================================
 
-If you're a startup or tech for good company that shares these values, I would love to hear from you! Let's work together to create something amazing and make a positive impact on the world.
+- Typescript
+- React
+- Node.js
+- Express.js
+- Nest.js
+- Git
+- Docker
+- ...
 
-## 📫 Get in touch
+================================================
 
-You can contact me via [Email](mailto:tim.petersen1@outlook.de) or [LinkedIn](https://www.linkedin.com/in/tim-petersen-6022121a3/). I'm looking forward to hearing from you!
+
+🌎 > "In a world where you can be anything, be kind" - Unknown
+
+
+

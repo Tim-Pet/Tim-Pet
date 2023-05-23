@@ -17,7 +17,7 @@ If you want to chat about technologies, or have an interesting project idea in m
 
 ## 🐶 When I'm not coding...
 
-I'm a big fan of music - it's my go-to when I'm in need of some inspiration or relaxation. And when I'm not lost in the music or tangled in lines of code, you'll find me spending time with my new best friend, an Australian Shepherd puppy (trust me, she's the cutest!) - oh and her name is Pixel (since Java was already taken by another fella).
+I'm a big fan of music - it's my go-to when I'm in need of some inspiration or relaxation. And when I'm not lost in the music or tangled in lines of code, you'll find me spending time with my new best friend, an Australian Shepherd puppy (trust me, she's the cutest!) - oh and her name is Pixel 🎨 (since Java was already taken by another fella).
 
 ## 🛠️ My Toolkit 
 

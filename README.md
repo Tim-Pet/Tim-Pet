@@ -32,7 +32,7 @@ React, Node.js, Express.js, Nest.js
 MongoDB, PostgresDB
 
 # Tools
-Git, Docker
+Git, Docker, bash
 
 # Stuff I touched along the way
 Lit.js, Deno, AWS, GCloud, Heroku, Three.js, 

@@ -35,7 +35,7 @@ MongoDB, PostgresDB
 Git, Docker, bash
 
 # Stuff I touched along the way
-Lit.js, Deno, AWS, GCloud, Heroku, Three.js, 
+Lit.js, Deno, AWS, GCloud, Heroku, Three.js, Python
 
 # Oh and yes of course I worked with the usual JS frameworks and libs like:
 Gatsby, Next, Framer motion, GSAP, Tailwind, Chakra UI etc., StyledComponents, Mongoose, Prisma, graphQL, ...

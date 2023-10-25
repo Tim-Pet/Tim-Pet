@@ -26,7 +26,7 @@ I'm a big fan of music - it's my go-to when I'm in need of some inspiration or r
 Typescript + (HTML, CSS)
 
 # Frameworks/Libraries
-React, Node.js, Express.js, Nest.js
+React, Node.js, Express.js, Nest.js, React Native
 
 # Database
 MongoDB, PostgresDB

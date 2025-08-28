@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tim!
 
-<q><i>Coding isn't only about hacking a colourful line after another - it's about creating something new together with anyone who shares my passion</i></q>
+<q><i>Coding isn’t just lines on a screen—it’s creating something new with those who share the same passion.</i></q>
 
 ### 👉🏼  Welcome to my GitHub space where I love to create and share things that blend functionality and aesthetics.
 
